@@ -20,25 +20,26 @@ public class E1 {
     }
 }
 //*C++
-// #include <iostream>
-// using namespace std;
-//  int sumar(int[] array,tam){
-//      int suma=0;
-//      for (int i=0; i<tam;i++){
-//          suma+=array[i];
-//      }
-//    return suma;
-//}
-// int main(){
-//int num[] = {1,3,5,6,1,-8};
-//tamaño=sizeof(num)/sizeof(num[0]); //para verificar el tamaño del array
-// cout<<sumar(num,tamaño)
-//retunr 0;}*/
+    #include <iostream>
+    using namespace std;
+    int sumar(int array[],int tam){
+      int suma=0;
+      for (int i=0; i<tam;i++){
+          suma+=array[i];
+      }
+    return suma;
+}
+ int main(){
+int num[] = {1,3,5,6,1,-8};
+int tamaño=sizeof(num)/sizeof(num[0]); //para verificar el tamaño del array
+cout<<sumar(num,tamaño);
+return 0;
+}
 
 
 
-//* En python
-//  def suma(array):
-//      retunr(sum)*
-// numeros=[1,2,5,3,7]
-// print(suma(numeros))/
+// En python
+  def suma(array):
+     retunr(sum)*
+ numeros=[1,2,5,3,7]
+ print(suma(numeros))
