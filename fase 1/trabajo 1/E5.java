@@ -1,4 +1,5 @@
-public public class E5 {
+import java.util.Scanner;
+public class E5 {
 
     public static double calcularCargo(int horas) {
 
@@ -18,14 +19,15 @@ public public class E5 {
     }
 
     public static void main(String[] args) {
-
-        int horas = 5;
-
+        Scanner sc= new Scanner(System.in);
+        System.out.print("ingrese las horas");
+        int horas=sc.nextInt();
         double cargo = calcularCargo(horas);
 
         System.out.println("Horas: " + horas);
         System.out.println("Cargo: S/ " + cargo);
+        sc.close();
     }
-} {
+} 
     
-}
+
