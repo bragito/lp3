@@ -14,9 +14,29 @@ public class Cuenta {
     }
 
     public void Retirar(double monto){
-        if(monto>this.saldo){
-            
+        if(monto>this.saldo || monto<0 ){
+            System.out.println("accion no disponible saldo insuficiente o no se puede ingresar num negativos");
+        }else{
+            this.saldo-=monto;
+            System.out.println("Retiro exitoso");
         }
+    }
+
+    public void Despositar(double monto){
+        if(monto<0){
+            System.out.println("accion no disponible no se ingresa num negativos");
+        }else{
+            this.saldo+=monto;
+            System.out.println("Desposito exitoso");
+        }
+    }
+
+    public double getSaldo(){
+        return this.saldo;
+    }
+
+    public void consulta(){
+        System.out.println("Saldo disponible: $" + getSaldo());
     }
     
 }

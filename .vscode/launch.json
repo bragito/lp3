@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppBanco",
+            "request": "launch",
+            "mainClass": "actividades.cinco.AppBanco",
+            "projectName": "lp3_3c5f2521"
+        },
+        {
+            "type": "java",
+            "name": "Persona",
+            "request": "launch",
+            "mainClass": "actividades.cuatro.Persona",
+            "projectName": "lp3_3c5f2521"
+        },
+        {
+            "type": "java",
             "name": "TestAgregacion",
             "request": "launch",
             "mainClass": "actividades.TestAgregacion",
