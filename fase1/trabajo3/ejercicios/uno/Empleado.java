@@ -1,4 +1,4 @@
-package lp3.fase1.trabajo3.ejercicios.uno;
+package fase1.trabajo3.ejercicios.uno;
 
 public class Empleado {
 
