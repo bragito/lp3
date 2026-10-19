@@ -1,3 +1,6 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "fase1/trabajo8/ejercicios/lib/sqlite-jdbc-3.42.0.0.jar"
+    ]
 }
