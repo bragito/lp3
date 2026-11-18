@@ -6,6 +6,245 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultimediaSwing",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.actividades.dos.MultimediaSwing",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "GraficosSwing",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.actividades.dos.GraficosSwing",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "BindingDatos",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.actividades.dos.BindingDatos",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "TemperaturasSemana",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.ejercicios.TemperaturasSemana",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "EfectosSonido",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.ejercicios.EfectosSonido",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "ReproductorMusica",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.ejercicios.ReproductorMusica",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Act7",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.actividades.Act7",
+            "projectName": "lp3-main_db083a67",
+            "vmArgs": "--module-path \"C:/Users/alexa/Downloads/javafx-sdk-27.0.1/lib\" --add-modules javafx.controls,javafx.media,javafx.swing"
+        },
+        {
+            "type": "java",
+            "name": "Act5",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.actividades.Act5",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Act6",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.actividades.Act6",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Act3",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.actividades.Act3",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Acti2",
+            "request": "launch",
+            "mainClass": "fase1.trabajo10.actividades.Acti2",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "PruebaCasillaVerificacion",
+            "request": "launch",
+            "mainClass": "fase1.trabajo9.actividad.extra.JCheckBox.PruebaCasillaVerificacion",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "PruebaLista",
+            "request": "launch",
+            "mainClass": "fase1.trabajo9.actividad.extra.JList.PruebaLista",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "PruebaCuadroCombinado",
+            "request": "launch",
+            "mainClass": "fase1.trabajo9.actividad.extra.JComboBox.PruebaCuadroCombinado",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "PruebaBoton",
+            "request": "launch",
+            "mainClass": "fase1.trabajo9.actividad.extra.JBoton.PruebaBoton",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "PruebaBotonOpcion",
+            "request": "launch",
+            "mainClass": "fase1.trabajo9.actividad.extra.JRadioButton.PruebaBotonOpcion",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "PruebaBoton",
+            "request": "launch",
+            "mainClass": "fase1.trabajo9.actividad.extra.PruebaBoton",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "MainCompra",
+            "request": "launch",
+            "mainClass": "fase1.trabajo9.ejercicios.MainCompra",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "fase1.trabajo9.actividad.App",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "EjemploGridLayout",
+            "request": "launch",
+            "mainClass": "fase1.trabajo9.actividad.EjemploGridLayout",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "fase1.trabajo8.ejercicios.dos.Main",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "fase1.trabajo8.ejercicios.uno.Principal",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "fase1.trabajo8.ejercicios.Principal",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "fase1.trabajo8.Main",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "fase1.trabajo7.ejercicios.dos.Main",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "fase1.trabajo7.ejercicios.uno.Main",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "PruebaJFileChooser",
+            "request": "launch",
+            "mainClass": "fase1.trabajo7.actividades.siete.PruebaJFileChooser",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Serial5",
+            "request": "launch",
+            "mainClass": "fase1.trabajo7.actividades.seis.Serial5",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "AppContactos",
+            "request": "launch",
+            "mainClass": "fase1.trabajo7.actividades.cinco.AppContactos",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "AppContactos",
+            "request": "launch",
+            "mainClass": "fase1.trabajo7.actividades.AppContactos",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "ContadorPalabras",
+            "request": "launch",
+            "mainClass": "fase1.trabajo7.ejercicios.cuatro.ContadorPalabras",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "fase1.trabajo7.ejercicios.tres.Main",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "fase1.trabajo5.ejercicios.dos.Main",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "fase1.trabajo5.ejercicios.uno.Main",
+            "projectName": "lp3-main_db083a67"
+        },
+        {
+            "type": "java",
             "name": "AppBanco",
             "request": "launch",
             "mainClass": "actividades.cinco.AppBanco",
